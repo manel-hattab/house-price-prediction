@@ -1,0 +1,25 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+.DS_Store
+# Project documentation and demo videos
+rapport_immobiliers.pdf
+interface capturé.mp4
